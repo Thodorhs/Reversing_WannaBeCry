@@ -5,4 +5,4 @@ Decrypting encrypted files from ransomware WannaBeCry.
 Decompilling using ghidra.
 Once you run the ransomware binary it encrypts your files under virus_folder directory and creates 2 files KEY.txt , README.TXT one folder above.
 
-Read the reversing_WannaBeCry.pdf to find out the solution.
+Read the [reversing_WannaBeCry.pdf](reversing_WannaBeCry.pdf) to find out the solution.
